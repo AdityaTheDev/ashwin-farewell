@@ -93,13 +93,14 @@ body {
 }
 
 .idea-3 strong {
+  font-size: 3rem;
   padding: 3px 5px;
   border-radius: 3px;
   display: inline-block;
 }
 
 .five .idea-5 {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .idea-5 span,
